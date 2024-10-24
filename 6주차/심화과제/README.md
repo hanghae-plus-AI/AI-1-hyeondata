@@ -28,5 +28,5 @@
 
 eval/loss 링크 : https://api.wandb.ai/links/kimyonghyeondata-soongsil-university/h7rjgmzy
 
-train/loss 링크 : https://api.wandb.ai/links/kimyonghyeondata-soongsil-university/0ejv1sfz
+train/loss 링크 : https://api.wandb.ai/links/kimyonghyeondata-soongsil-university/omzh71sm
 
